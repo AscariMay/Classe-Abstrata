@@ -12,14 +12,9 @@ namespace ConsoleApp1
         public int Multiplicacao { get; set; }
         public int Divisao { get; set; }
 
-
         public abstract void Somar();
         public abstract void Subtrair();
         public abstract void Multiplicar();
         public abstract void Dividir();
-
-
-
-
     }
 }
